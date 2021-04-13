@@ -27,6 +27,7 @@ public class Moneda {
         }
         System.out.println("Resultados del lanzamiento de una moneda 10 veces");
         System.out.println("Cara: " + cara+ " \nCruz: "+ cruz);
+        System.out.println("hola");
     }
     
     
